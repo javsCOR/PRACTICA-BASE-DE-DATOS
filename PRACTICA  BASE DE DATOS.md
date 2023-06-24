@@ -216,7 +216,7 @@ TempAndHumidity  data = dhtSensor.getTempAndHumidity();
 
 Cuando haya funcionado, verás  LOCAL HOST  como se muestra LA RECOPILACION DE DATOS en la siguente imagen.
 
-![](![Alt text](image-1.png))
+![](https://github.com/javsCOR/PRACTICA-BASE-DE-DATOS/blob/main/DIAGRAMA%204.png?raw=true)
 
 
 
